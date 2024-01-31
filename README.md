@@ -1,6 +1,8 @@
 ## Getting Started
-To set up the project and run both the frontend and backend servers, follow these steps:
 
+In this project, I'm utilizing the Hugging Face model. To begin, you'll need to acquire an API token from the Hugging Face website. Simply create an account and retrieve the API token key from your profile.
+click on this link to visit [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) Login is required!.<br/>
+To set up the project and run both the frontend and backend servers, follow these steps:
 #### Frontend Setup:
 Install Vite:
 `npm install`
