@@ -1,1 +1,1 @@
-ACCESS_TOKEN = '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';
+ACCESS_TOKEN = 'hugging_face_api_token';
